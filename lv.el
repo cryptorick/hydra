@@ -2,7 +2,10 @@
 
 ;; Copyright (C) 2015  Free Software Foundation, Inc.
 
-;; Author: Oleh Krehel
+;; Author: Oleh Krehel <ohwoeowho@gmail.com>
+;; Maintainer: Oleh Krehel <ohwoeowho@gmail.com>
+;; URL: https://github.com/abo-abo/hydra
+;; Version: 0
 
 ;; This file is part of GNU Emacs.
 
